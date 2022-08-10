@@ -18,6 +18,7 @@
 		644C603F28A2634200FAA5DF /* KisiKayitVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 644C603E28A2634200FAA5DF /* KisiKayitVC.swift */; };
 		644C604428A2635900FAA5DF /* KisiDetayVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 644C604328A2635900FAA5DF /* KisiDetayVC.swift */; };
 		644C604928A2C97F00FAA5DF /* Kisiler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 644C604828A2C97F00FAA5DF /* Kisiler.swift */; };
+		648401D828A3B2920022BDC0 /* TableViewHucre.swift in Sources */ = {isa = PBXBuildFile; fileRef = 648401D728A3B2920022BDC0 /* TableViewHucre.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		644C603E28A2634200FAA5DF /* KisiKayitVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KisiKayitVC.swift; sourceTree = "<group>"; };
 		644C604328A2635900FAA5DF /* KisiDetayVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KisiDetayVC.swift; sourceTree = "<group>"; };
 		644C604828A2C97F00FAA5DF /* Kisiler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kisiler.swift; sourceTree = "<group>"; };
+		648401D728A3B2920022BDC0 /* TableViewHucre.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewHucre.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				644C604328A2635900FAA5DF /* KisiDetayVC.swift */,
 				644C604828A2C97F00FAA5DF /* Kisiler.swift */,
 				644C600E28A261FD00FAA5DF /* Main.storyboard */,
+				648401D728A3B2920022BDC0 /* TableViewHucre.swift */,
 				644C601128A2620800FAA5DF /* Assets.xcassets */,
 				644C601328A2620800FAA5DF /* LaunchScreen.storyboard */,
 				644C601628A2620800FAA5DF /* Info.plist */,
@@ -270,6 +273,7 @@
 				644C604428A2635900FAA5DF /* KisiDetayVC.swift in Sources */,
 				644C600D28A261FD00FAA5DF /* AnasayfaVC.swift in Sources */,
 				644C600928A261FD00FAA5DF /* AppDelegate.swift in Sources */,
+				648401D828A3B2920022BDC0 /* TableViewHucre.swift in Sources */,
 				644C600B28A261FD00FAA5DF /* SceneDelegate.swift in Sources */,
 				644C603F28A2634200FAA5DF /* KisiKayitVC.swift in Sources */,
 				644C604928A2C97F00FAA5DF /* Kisiler.swift in Sources */,
